@@ -1,4 +1,4 @@
-      <h1>Formulário de Notícia</h1>
+      <h1>Formulário de Equipamento</h1>
       <form action="<?php echo APP . 'equipamento/salvar'; ?>" method="POST">
         <div class="form-group">
           <label for="id">ID</label>
